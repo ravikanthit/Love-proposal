@@ -15,9 +15,7 @@ var love = setInterval(function(){
 var i = 0;
 var txt1 = "Hi SweetHeart.....!  <<               Now I wan't to say something special to you. <<<                So , Please read everything carefully...!                                                                           > When I saw you for the first time < You seems something Special to me.  <<                  As the days goes < you get closer to me....! <<                           I don't know the reason why your thoughts always resonates inside my mind...!                                                     > Everything about you is always intresting for me...!                     << I am somewhat nervous Because I haven't said these words to anyone and I won't say to anyone in future...!                                                     > I Love my Parents so much than anything else in this world....!                    << Now You are the 2nd person  whom I love equally with my parents....!                                                             >I Love U <SweetHeart.....! |                  <<<< Give me One chance to Prove my Love ...! < Design by Ravi shashi don't take it personally ...!";
 var speed = 50;
-var span = document.getElementById("span");
-span.style.fontSize = "auto";
-span.innerHTML = "String";
+var r_size= "auto";
 typeWriter();
 function typeWriter() {
   if (i < txt1.length) {        

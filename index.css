@@ -10,7 +10,7 @@ html,body{
   height:100%;
  overflow:hidden;
   background-image:url("https://img.freepik.com/free-vector/minimal-love-hearts-background-with-text-space_1017-23417.jpg?size=626&ext=jpg");
-  background-size:100% 100%;
+  background-size:auto 100%;
   z-index:-1;
 }
 
